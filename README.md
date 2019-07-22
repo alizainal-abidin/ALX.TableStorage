@@ -1,6 +1,6 @@
 ## ALX.TableStorage
-### Generic Repository Implementation for Azure Table Storage
-This is a simple demo of Generic Repository Pattern for Azure Table Storage. 
+### Generic Repository Implementation for [Azure Table Storage](https://jlik.me/6b)
+This is a simple demo of Generic Repository Pattern for Azure Table Storage. This project written in .Net Core 2.2.
 
 ### TL;DR;
 
